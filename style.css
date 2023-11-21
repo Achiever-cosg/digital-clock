@@ -187,7 +187,11 @@ body.light .toggleClass::before
 }
 
 .footer {
-    
+    background-color: #333;
+    color: #fff;
     text-align: center;
-    margin-bottom: 1rem;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
